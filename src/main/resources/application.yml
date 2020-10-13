@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: micronautKeyFormatIssue
+
+conf:
+  animals:
+    VERY_FAST: rabbit
+    VERY_SLOW: turtle
